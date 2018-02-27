@@ -1,5 +1,5 @@
 label,sublabel,description,styles,bgcolor
-可燃物,,指定有料ごみ袋で出してください,img/title_kanen.svg,#F7FE2E
+可燃物,,指定有料ごみ袋で出してください,img/title_kanen.svg,#FFD700
 不燃物,,指定有料ごみ袋で出してください,img/title_hunen.svg,#EE82EE
 資源プラ,,プラマークのある容器や包装,img/title_shig.svg,#9370DB
 缶・びん,,PETマークがあるボトル（フタははずして資源プラへ）,img/title_kan.svg,#FFA07A
