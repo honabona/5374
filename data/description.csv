@@ -1,8 +1,8 @@
 label,sublabel,description,styles,bgcolor
-可燃物,,指定有料ごみ袋で出してください,img/mejiro.svg,#F7FE2E
-不燃物,,指定有料ごみ袋で出してください,img/map.svg,#EE82EE
-資源プラ,,プラマークのある容器や包装,img/mejiro.svg,#9370DB
-缶・びん,,PETマークがあるボトル（フタははずして資源プラへ）,img/map.svg,#FFA07A
-ペットボトル,,食用・飲料用容器、ペットフード缶が対象（油の缶・びんは不燃物へ）,img/mejiro.svg,#D2B48C
-スプレー缶・蛍光管等,,不燃物の日に出さないでください,img/map.svg,#9ACD32
-古紙・布類,,新聞紙・その他紙類・布類は別々の袋に入れて,img/mejiro.svg,#AFEEEE
+可燃物,,指定有料ごみ袋で出してください,img/title_kanen.svg,#F7FE2E
+不燃物,,指定有料ごみ袋で出してください,img/title_hunen.svg,#EE82EE
+資源プラ,,プラマークのある容器や包装,img/title_shig.svg,#9370DB
+缶・びん,,PETマークがあるボトル（フタははずして資源プラへ）,img/title_kan.svg,#FFA07A
+ペットボトル,,食用・飲料用容器、ペットフード缶が対象（油の缶・びんは不燃物へ）,img/title_pet.svg,#D2B48C
+スプレー缶・蛍光管等,,不燃物の日に出さないでください,img/title_spr.svg,#9ACD32
+古紙・布類,,新聞紙・その他紙類・布類は別々の袋に入れて,img/title_koshi.svg,#AFEEEE
